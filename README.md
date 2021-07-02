@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on every possible code
 - 📫 Learn its my thing
 
-donairene = beggining
-
-while 
+donairene = beginner
 
 
