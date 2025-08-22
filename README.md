@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working at Ingeniarius
+🔭 I'm a software developer with appretiation for field robotics, backend, linux optimization and unity development.
+"Do want you can...
+Search it when you can't! 
+Now you can do again!"
+
 
 
 # 💻 Tech Stack:
