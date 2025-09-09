@@ -1,11 +1,11 @@
 # 💫 About Me:
 🔭 I'm a software developer with appretiation for field robotics, backend, linux optimization and unity development.
 
-"Do want you can...
+"Do what you can...
 
 Search it when you can't! 
 
-Now you can do again!"
+Now you can... do again!"
 
 
 
